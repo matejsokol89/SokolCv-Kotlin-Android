@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SokolCv</string>
+    <string name="matej_sokol">Matej Sokol</string>
+    <string name="junior_programmer">Junior Programmer</string>
+    <string name="contact_me">CONTACT ME</string>
+    <string name="number">Number</string>
+    <string name="mobile">0977137631</string>
+    <string name="email">Email</string>
+    <string name="sokolvm">sokolvm@gmail.com</string>
+    <string name="adress">Adress</string>
+    <string name="crkvena_61">Crkvena 61, Osijek</string>
+    <string name="birth">Birth: 05.08.1989</string>
+    <string name="skills">PROGRAMMING SKILLS</string>
+    <string name="programming_langs">Python, Java, Kotlin, PHP</string>
+    <string name="languages">LANGUAGES</string>
+    <string name="english_german">English, German</string>
+    <string name="interest">INTEREST</string>
+    <string name="sport_dogs_learning">Sport, Dogs, learning</string>
+    <string name="face_matej">facebook.com/matej.bechar</string>
+    <string name="instagram_sokol">instagram.com/msokol</string>
+    <string name="summary">SUMMARY</string>
+    <string name="summary_description">For some time I\'ve been working for one small Company from Osijek it name is
+        4each and colleges are Great!!
+    </string>
+    <string name="education">EDUCATION</string>
+    <string name="faculty">Faculty of Economics in Osijek</string>
+</resources>

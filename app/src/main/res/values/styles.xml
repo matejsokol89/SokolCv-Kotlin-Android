@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="HeadTextSize" parent="android:Theme.Light">
+        <item name="android:textColor">@color/myColor</item>
+        <item name="android:windowFullscreen">true</item>
+
+    </style>
+
+    <style name="SubText" parent="android:Theme.Light">
+        <item name="android:textColor">@color/greyColor</item>
+        <item name="android:windowFullscreen">true</item>
+
+    </style>
+
+
+
+    <shape name="BorederRound"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+
+        <corners android:radius="5dp" />
+        <solid android:color="@android:color/white" />
+        <stroke
+                android:width="1dip"
+                android:color="@color/bggrey" />
+    </shape>
+
+
+
+
+</resources>
