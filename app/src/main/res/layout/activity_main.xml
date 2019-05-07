@@ -45,6 +45,7 @@
         <ImageView
                 android:layout_width="100dp"
                 android:layout_height="80dp"
+                android:foreground="@drawable/round"
                 android:background="@drawable/sokol"
                 android:layout_alignParentEnd="true"
                 android:layout_centerVertical="true"
@@ -245,6 +246,113 @@
                     android:textStyle="bold"
                     android:textSize="10sp"
                     android:text="@string/faculty"/>
+            <TextView
+                    android:layout_marginTop="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:text="@string/degree"/>
+            <TextView
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blackColor"
+                    android:textStyle="bold"
+                    android:textSize="10sp"
+                    android:text="@string/edunova"/>
+            <TextView
+                    android:layout_marginTop="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:text="@string/java_php"/>
+
+            <TextView
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blackColor"
+                    android:textStyle="bold"
+                    android:textSize="10sp"
+                    android:text="@string/social_faculty"/>
+            <TextView
+                    android:layout_marginTop="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:text="@string/pdmdi"/>
+
+            <TextView
+                    android:textStyle="bold"
+                    android:textColor="@android:color/holo_blue_light"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:text="EXPERIENCE"/>
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/trasnparentColor"/>
+            <TextView
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blackColor"
+                    android:textStyle="bold"
+                    android:textSize="12sp"
+                    android:text="@string/java_development"/>
+            <TextView
+                    android:layout_marginTop="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:text="@string/nba_stats_app"/>
+            android:text="EXPERIENCE"/>
+            <TextView
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blackColor"
+                    android:textStyle="bold"
+                    android:textSize="12sp"
+                    android:text="@string/php_development"/>
+            <TextView
+                    android:layout_marginTop="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:text="@string/walk_my_doggy_dog_web_app"/>
+            <TextView
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blackColor"
+                    android:textStyle="bold"
+                    android:textSize="12sp"
+                    android:text="@string/python_development"/>
+            <TextView
+                    android:layout_marginTop="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:text="@string/crewcheckin_backend_server_side"/>
+            <TextView
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blackColor"
+                    android:textStyle="bold"
+                    android:textSize="12sp"
+                    android:text="@string/javascript_node_js"/>
+            <TextView
+                    android:layout_marginTop="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:text="@string/yelpcamp_crud_web_app"/>
+
+
 
         </LinearLayout>
     </LinearLayout>
