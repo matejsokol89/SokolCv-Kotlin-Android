@@ -1,10 +1,7 @@
 package com.example.sokolcv
 
-import android.content.Context
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.mikepenz.iconics.context.IconicsContextWrapper
-
+import androidx.appcompat.app.AppCompatActivity
 
 
 class MainActivity : AppCompatActivity() {
